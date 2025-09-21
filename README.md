@@ -1,2 +1,1 @@
-# SparseMatrix
-Sparse Matrix Implementation 
+
